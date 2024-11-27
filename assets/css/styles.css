@@ -1,0 +1,25 @@
+.wazaaa {
+  background-color: var(--bs-white);
+}
+
+.wazaaa:hover {
+  background-color: blanchedalmond;
+  border-radius: 20px 20px 20px 20px;
+}
+
+.btn:hover {
+  background-color: #deb887;
+}
+
+.btn {
+  background-color: #3a3125;
+}
+
+a {
+  background-color: #ffffff;
+}
+
+a:hover {
+  background-color: burlywood;
+}
+
